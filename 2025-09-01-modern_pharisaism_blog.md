@@ -1,18 +1,18 @@
-# When Psychology Becomes Self-Righteousness: A Biblical Perspective
+# When Psychology Becomes Self-Righteousness: A Biblical Perspective 🧠⚖️
 
 *How therapeutic language can mask the same old spiritual pride*
 
-Have you noticed something strange? The people who are quickest to call others "toxic" or "narcissistic" often act in the very ways they criticize. 
+Have you noticed something strange? 🤔 The people who are quickest to call others "toxic" or "narcissistic" often act in the very ways they criticize. 
 
 This isn't real psychological insight—it's an ancient spiritual problem wearing modern clothes.
 
 ---
 
-## The Same Pride, New Words
+## The Same Pride, New Words 🎭
 
 The Pharisees in Jesus' day used religious knowledge to feel superior to others. Today's version does the same thing with psychology terms.
 
-Think about social media comment sections where someone drops terms like "gaslighting," "boundaries," or "trauma-informed" not to genuinely help, but to shut down conversation and position themselves as the enlightened one.
+Think about social media comment sections where someone drops terms like "gaslighting," "boundaries," or "trauma-informed" not to genuinely help, but to shut down conversation and position themselves as the enlightened one. 📱💬
 
 Instead of Bible verses, they quote therapy concepts. But they're not using these ideas primarily to help people heal—they're using them to position themselves as the enlightened ones who can judge everyone else.
 
@@ -20,7 +20,7 @@ Jesus called the Pharisees "whitewashed tombs"—beautiful on the outside but fu
 
 ---
 
-## We're All Broken
+## We're All Broken 💔
 
 Here's the uncomfortable truth that cuts through all self-righteousness: the Bible says we're all "toxic" in our natural state. 
 
@@ -30,13 +30,13 @@ We're all born with a nature that corrupts everything we touch. So when someone 
 
 ---
 
-## New Rules, Same Game
+## New Rules, Same Game 🎯
 
 The Pharisees used religious knowledge as a weapon ("We know that this man is a sinner" - John 9:24). Today's version does the same with therapy concepts.
 
 They've created new categories to sort people: "toxic" vs. "healthy," "problematic" vs. "progressive," "trauma-informed" vs. "harmful." 
 
-It's like watching someone curate their social circle based on who uses the "right" language about mental health, social justice, or personal growth.
+It's like watching someone curate their social circle based on who uses the "right" language about mental health, social justice, or personal growth. 📋✂️
 
 It's a complex filing system that lets them decide who's acceptable and who isn't.
 
@@ -46,7 +46,7 @@ But they're still imposing heavy burdens: "You must do this inner work," "You ne
 
 ---
 
-## The Real Problem: Playing God
+## The Real Problem: Playing God 👑
 
 This goes deeper than just being self-deceived. Genesis 3:5 reveals the lie every human believes: "you will be like God, knowing good and evil."
 
@@ -56,25 +56,25 @@ Using psychology terms to feel superior is just the latest way we try to play Go
 
 Jeremiah 17:9 gets to the heart of it: "The heart is deceitful above all things, and desperately wicked." The word "desperately" means incurably sick. 
 
-Our hearts are expert liars. They constantly create evidence that we're good while collecting proof that others are bad. 
+Our hearts are expert liars. 🤥 They constantly create evidence that we're good while collecting proof that others are bad. 
 
 Therapeutic language just becomes another tool our hearts use to deceive us.
 
 ---
 
-## When Helping Becomes Hurting
+## When Helping Becomes Hurting 😇➡️😈
 
 The person calling others "toxic" usually thinks they're being helpful and protective. But Proverbs 21:2 exposes what's really happening: "Every way of a man is right in his own eyes: but the LORD pondereth the hearts."
 
 God sees the hidden pride—that secret satisfaction of being the insightful one who "sees through" everyone else.
 
-Often the harshest judgment comes from fear. Think about the person who's constantly calling out "toxic behavior" on social media while their own relationships are falling apart. People who are quickest to diagnose others' problems might be desperately trying to distract from their own issues. 
+Often the harshest judgment comes from fear. Think about the person who's constantly calling out "toxic behavior" on social media while their own relationships are falling apart. 📱💔 People who are quickest to diagnose others' problems might be desperately trying to distract from their own issues. 
 
 Like Adam blaming Eve ("The woman whom thou gavest to be with me" - Genesis 3:12), attacking others becomes a way to avoid dealing with our own brokenness.
 
 ---
 
-## The Need to Control
+## The Need to Control 🎮
 
 Deep down, feeling morally superior is about control. If I can label you as "toxic" or "narcissistic," I can predict you, manage you, and dismiss you when convenient.
 
@@ -82,7 +82,7 @@ This feeds the illusion that I'm safe, wise, and in control of my world. But Isa
 
 ---
 
-## The Gospel Reality Check
+## The Gospel Reality Check ✅
 
 Only the gospel's brutal honesty about human nature can break through this self-deception. When Romans 3:23 says "all have sinned," it includes the person doing the diagnosing.
 
@@ -94,9 +94,9 @@ The person obsessed with others' toxicity needs to stand before God's Word and s
 
 ---
 
-## Questions That Cut Deep
+## Questions That Cut Deep 🗡️
 
-Real change requires asking hard questions:
+Real change requires asking hard questions: 🔍
 
 - God, what draws me to judge others?
 - What am I avoiding in myself by focusing on their problems?
@@ -105,7 +105,7 @@ Real change requires asking hard questions:
 
 ---
 
-## The Gospel Solution
+## The Gospel Solution 💊
 
 Real biblical wisdom creates humility. When we truly understand our own sinfulness, we become slow to diagnose others and quick to show mercy. The gospel transforms us from judges into fellow patients in God's hospital of grace.
 
@@ -115,7 +115,7 @@ The gospel is just as disruptive to modern spiritual pride as it was to the anci
 
 ---
 
-## We're All in the Same Boat
+## We're All in the Same Boat ⛵
 
 The tragedy is that therapeutic language and social awareness—which could genuinely help people—gets corrupted into another way to feel superior. This blinds us to our own need for grace.
 
@@ -125,7 +125,7 @@ When we truly understand our own brokenness, we approach others' failures with c
 
 The irony runs deep: language meant to promote healing becomes another tool for the very self-centeredness it claims to identify. 
 
-But the gospel cuts deeper than our self-deception. It reveals that we're all equally broken. We're all equally in need of Christ's cleansing. We're all equally candidates for His transforming grace.
+But the gospel cuts deeper than our self-deception. ⚔️ It reveals that we're all equally broken. We're all equally in need of Christ's cleansing. We're all equally candidates for His transforming grace. ✨
 
 ---
 
