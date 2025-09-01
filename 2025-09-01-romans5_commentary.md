@@ -194,12 +194,20 @@ Adam was humanity's first CEO who made one terrible decision that bankrupted the
 
 ## Connection to Romans 6 🔗
 
-Romans 5:21 perfectly sets up chapter 6's slavery metaphor:
+Romans 5:21 perfectly sets up chapter 6's slavery metaphor, which connects back to Paul's opening declaration in Romans 1:
+
+**Romans 1:1**: Paul identifies himself as "δοῦλος" (doulos - bondservant/slave) of Jesus Christ 🛐
+**Romans 1:5**: His mission is to bring all nations "εἰς ὑπακοὴν πίστεως" (into the obedience of faith) 🌍
+
+This creates a beautiful arc:
 
 **Romans 5**: Shows **which kingdom** we're in (Adam's vs. Christ's)  
 **Romans 6**: Shows **which master** we serve (Sin vs. Righteousness)
+**The Connection**: Just as Paul is Christ's willing slave (1:1), believers become "slaves to righteousness" (6:18) through the "obedience of faith" (1:5) 🔄
 
-If **grace reigns** in us (5:21), we cannot continue serving **sin** as master (6:1). The reign of grace demands slavery to righteousness.
+If **grace reigns** in us (5:21), we cannot continue serving **sin** as master (6:1). The reign of grace demands slavery to righteousness - the very "obedience of faith" Paul came to establish. 
+
+Paul's own identity as Christ's doulos becomes the model for what happens to all believers: transferred from slavery to sin into joyful slavery to righteousness.
 
 ## Theological Significance 📚⛪
 
