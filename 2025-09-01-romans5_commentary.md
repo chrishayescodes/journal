@@ -45,6 +45,7 @@ Paul grounds our hope in the historical demonstration of God's love. Notice the 
 1. **"Without strength"** (ἀσθενής) - powerless, unable to help ourselves 😵‍💫
 2. **"Ungodly"** (ἀσεβής) - irreverent toward God 🚫
 3. **"Sinners"** (ἁμαρτωλοί) - active rebels missing the mark 🎯❌
+4. **"Enemies"** (ἐχθροί) - hostile opponents of God ⚔️😡
 
 This progression shows sin's downward spiral: weakness → indifference → rebellion → hostility (v.10 - "enemies").
 
