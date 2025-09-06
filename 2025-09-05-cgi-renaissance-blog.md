@@ -2,7 +2,7 @@
 
 *A conversation about escaping framework prison and rediscovering the lost art of composable software*
 
-[**Shut up and show me the code!**](https://github.com/chrishayescodes/cgi-process-pool)
+>[**💻 Shut up and show me the code!**](https://github.com/chrishayescodes/cgi-process-pool)
 
 ## TL;DR
 
