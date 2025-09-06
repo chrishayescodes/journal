@@ -2,6 +2,12 @@
 
 *A conversation about escaping framework prison and rediscovering the lost art of composable software*
 
+[**Shut up and show me the code!**](https://github.com/chrishayescodes/cgi-process-pool)
+
+## TL;DR
+
+Modern web frameworks trap us in monolithic architectures where everything must be written in one language and tightly coupled together. But 1990s CGI had it right: simple, independent programs that do one thing well. The performance problems that killed CGI don't exist anymore—we have process pools, containers, and modern infrastructure. We should return to composable architectures where each endpoint can use the optimal technology, testing becomes trivial, and one bug can't crash your entire application.
+
 ## The Problem: We're All Living in Framework Prison
 
 I had an interesting realization recently while talking with Claude about web development: **we've built ourselves into a corner**. 
