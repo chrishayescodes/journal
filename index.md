@@ -6,6 +6,11 @@
 
 ## Recent Posts
 
+### Project Management & Methodology
+- [**From Software Engineering to Software Farming**](2025-09-09-farming-software-management.md) - A paradigm shift in project management. Why software is more like tending a living farm than building a bridge. Working with constraints, seasons, and practical wisdom.
+
+- [**Ask-Based Planning: How to Actually Make Decisions**](2025-09-09-ask-based-planning.md) - Stop the estimation theater and taxonomy debates. Everything is just an "ask" - evaluate it on impact, effort, and constraints. Includes priority frameworks, risk assessment, and the 5 Whys technique.
+
 ### Architecture & System Design
 - [**Why We Might Be Building Web Apps All Wrong**](2025-09-05-cgi-renaissance-blog.md) - How 1990s CGI architecture might save us from framework prison. A conversation about escaping monolithic architectures and rediscovering composable software.
 
