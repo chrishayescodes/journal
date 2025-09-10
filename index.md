@@ -6,6 +6,9 @@
 
 ## Recent Posts
 
+### Craftsmanship & Constraints
+- [**The Dull Hatchet Problem: Software Craftsmanship Through Wilderness Wisdom**](2025-09-10-dull-hatchet.md) - Dick Proenneke's cabin-building philosophy applied to software development. On tool mastery, constraint-driven building, and why the industry's complexity addiction might be killing quality.
+
 ### Project Management & Methodology
 - [**From Software Engineering to Software Farming**](2025-09-09-farming-software-management.md) - A paradigm shift in project management. Why software is more like tending a living farm than building a bridge. Working with constraints, seasons, and practical wisdom.
 
