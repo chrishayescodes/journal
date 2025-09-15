@@ -6,31 +6,27 @@
 
 ## Recent Posts
 
-### Craftsmanship & Constraints
-- [**The Dull Hatchet Problem: Software Craftsmanship Through Wilderness Wisdom**](2025-09-10-dull-hatchet.md) - Dick Proenneke's cabin-building philosophy applied to software development. On tool mastery, constraint-driven building, and why the industry's complexity addiction might be killing quality.
+- [**The Incredible Shrinking Software Developer: Why Code is Invisible and Quality Doesn't Matter**](2025-09-15-software-is-invisible.md) - *September 15, 2025* - How software's fundamental invisibility creates a management crisis where non-technical leaders make technical decisions. Explores the psychological toll on developers, recent disasters like CrowdStrike, and why we're the only profession managed by people who can't see the work.
 
-### Project Management & Methodology
-- [**From Software Engineering to Software Farming**](2025-09-09-farming-software-management.md) - A paradigm shift in project management. Why software is more like tending a living farm than building a bridge. Working with constraints, seasons, and practical wisdom.
+- [**The Dull Hatchet Problem: Software Craftsmanship Through Wilderness Wisdom**](2025-09-10-dull-hatchet.md) - *September 10, 2025* - Dick Proenneke's cabin-building philosophy applied to software development. On tool mastery, constraint-driven building, and why the industry's complexity addiction might be killing quality.
 
-- [**Ask-Based Planning: How to Actually Make Decisions**](2025-09-09-ask-based-planning.md) - Stop the estimation theater and taxonomy debates. Everything is just an "ask" - evaluate it on impact, effort, and constraints. Includes priority frameworks, risk assessment, and the 5 Whys technique.
+- [**From Software Engineering to Software Farming**](2025-09-09-farming-software-management.md) - *September 9, 2025* - A paradigm shift in project management. Why software is more like tending a living farm than building a bridge. Working with constraints, seasons, and practical wisdom.
 
-### Architecture & System Design
-- [**Why We Might Be Building Web Apps All Wrong**](2025-09-05-cgi-renaissance-blog.md) - How 1990s CGI architecture might save us from framework prison. A conversation about escaping monolithic architectures and rediscovering composable software.
+- [**Ask-Based Planning: How to Actually Make Decisions**](2025-09-09-ask-based-planning.md) - *September 9, 2025* - Stop the estimation theater and taxonomy debates. Everything is just an "ask" - evaluate it on impact, effort, and constraints. Includes priority frameworks, risk assessment, and the 5 Whys technique.
 
-- [**Software Engineering's Hidden Reality**](2025-08/2025-08-28/software-archaeology-blog.md) - The complete conversation about technical debt, legacy systems, and why 95% of production code is garbage. Digital archaeology in hoarder houses of code.
+- [**Why We Might Be Building Web Apps All Wrong**](2025-09-05-cgi-renaissance-blog.md) - *September 5, 2025* - How 1990s CGI architecture might save us from framework prison. A conversation about escaping monolithic architectures and rediscovering composable software.
 
-- [**Strategy Pattern Discussion**](2025-08/2025-08-28/strategy-pattern-discussion.md) - Deep dive into design patterns and their practical applications in real-world systems.
+- [**Software Engineering's Hidden Reality**](2025-08/2025-08-28/software-archaeology-blog.md) - *August 28, 2025* - The complete conversation about technical debt, legacy systems, and why 95% of production code is garbage. Digital archaeology in hoarder houses of code.
 
-### Development Philosophy
-- [**Software Excellence Discussion**](2025-08/2025-08-28/software_excellence_discussion.md) - What makes software truly excellent beyond just working code. The tension between good enough and perfect.
+- [**Strategy Pattern Discussion**](2025-08/2025-08-28/strategy-pattern-discussion.md) - *August 28, 2025* - Deep dive into design patterns and their practical applications in real-world systems.
 
-- [**Software Engineering Immaturity**](2025-08/2025-08-28/software_engineering_immaturity.md) - Why our field hasn't matured like other engineering disciplines. The uncomfortable truths about our industry.
+- [**Software Excellence Discussion**](2025-08/2025-08-28/software_excellence_discussion.md) - *August 28, 2025* - What makes software truly excellent beyond just working code. The tension between good enough and perfect.
 
-### Industry & Culture
-- [**Linux CoC & HR Patterns**](2025-08/2025-08-14-THU-Linux-CoC-HR-Patterns-with-Web-Links.md) - Examining code of conduct patterns in open source and their broader implications.
+- [**Software Engineering Immaturity**](2025-08/2025-08-28/software_engineering_immaturity.md) - *August 28, 2025* - Why our field hasn't matured like other engineering disciplines. The uncomfortable truths about our industry.
 
-### Daily Notes
-- [**August 13 Reflections**](2025-08/2025-08-13-WED.md) - Thoughts on software development practices and industry observations.
+- [**Linux CoC & HR Patterns**](2025-08/2025-08-14-THU-Linux-CoC-HR-Patterns-with-Web-Links.md) - *August 14, 2025* - Examining code of conduct patterns in open source and their broader implications.
+
+- [**August 13 Reflections**](2025-08/2025-08-13-WED.md) - *August 13, 2025* - Thoughts on software development practices and industry observations.
 
 ---
 
