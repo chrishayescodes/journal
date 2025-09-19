@@ -6,6 +6,8 @@
 
 ## Recent Posts
 
+- [**Looking at Software Through the Manufacturing Product Development Lens**](software-through-manufacturing-lens.md) - *September 18, 2025* - A deep conversation exploring Poppendieck's premise and the fundamental nature of software systems. Examining how manufacturing principles reveal the flaws in current software engineering orthodoxy.
+
 - [**Making Software Like Making Movies**](2025-09-18-making-software-like-making-movies.md) - *September 18, 2025* - Why software development shares more with filmmaking than engineering. On creative collaboration, iterative refinement, and the art of turning vision into reality through organized chaos.
 
 - [**The Incredible Shrinking Software Developer: Why Code is Invisible and Quality Doesn't Matter**](2025-09-15-software-is-invisible.md) - *September 15, 2025* - How software's fundamental invisibility creates a management crisis where non-technical leaders make technical decisions. Explores the psychological toll on developers, recent disasters like CrowdStrike, and why we're the only profession managed by people who can't see the work.
