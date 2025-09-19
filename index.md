@@ -6,6 +6,8 @@
 
 ## Recent Posts
 
+- [**Making Software Like Making Movies**](2025-09-18-making-software-like-making-movies.md) - *September 18, 2025* - Why software development shares more with filmmaking than engineering. On creative collaboration, iterative refinement, and the art of turning vision into reality through organized chaos.
+
 - [**The Incredible Shrinking Software Developer: Why Code is Invisible and Quality Doesn't Matter**](2025-09-15-software-is-invisible.md) - *September 15, 2025* - How software's fundamental invisibility creates a management crisis where non-technical leaders make technical decisions. Explores the psychological toll on developers, recent disasters like CrowdStrike, and why we're the only profession managed by people who can't see the work.
 
 - [**The Dull Hatchet Problem: Software Craftsmanship Through Wilderness Wisdom**](2025-09-10-dull-hatchet.md) - *September 10, 2025* - Dick Proenneke's cabin-building philosophy applied to software development. On tool mastery, constraint-driven building, and why the industry's complexity addiction might be killing quality.
