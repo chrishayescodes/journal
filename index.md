@@ -6,7 +6,7 @@
 
 ## Recent Posts
 
-- [**Looking at Software Through the Manufacturing Product Development Lens**](software-through-manufacturing-lens.md) - *September 18, 2025* - A deep conversation exploring Poppendieck's premise and the fundamental nature of software systems. Examining how manufacturing principles reveal the flaws in current software engineering orthodoxy.
+- [**Looking at Software Through the Manufacturing Product Development Lens**](2025-09-18-software-through-manufacturing-lens.md) - *September 18, 2025* - A deep conversation exploring Poppendieck's premise and the fundamental nature of software systems. Examining how manufacturing principles reveal the flaws in current software engineering orthodoxy.
 
 - [**Making Software Like Making Movies**](2025-09-18-making-software-like-making-movies.md) - *September 18, 2025* - Why software development shares more with filmmaking than engineering. On creative collaboration, iterative refinement, and the art of turning vision into reality through organized chaos.
 
